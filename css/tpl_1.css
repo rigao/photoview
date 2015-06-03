@@ -1,0 +1,14 @@
+.home .i1{ top: 20%; left: 0%; width: 60%}
+.home.active .i1{left: 20%;}
+.home .i2{ bottom: 10%; right: -10px; width: 50%}
+.home.active .i2{right: 205;}
+
+.meet .i1{top: 20%; left: 0%; width: 60%}
+.meet.active .i1{left: 20%;}
+.meet .i2{ bottom: 10%;  right: -10px; width: 50%}
+.meet.active .i2{right: 20px;}
+
+.loving .i1{ top: 20%; left: 0%; width: 60%}
+.loving.active .i1{left: 20%;}
+.loving .i2{ bottom: 10%; right: -10px; width: 50%}
+.loving.active .i2{right: 20px;}

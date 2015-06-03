@@ -10,7 +10,7 @@ requirejs.config({
 		jquery : 'lib/jquery',
 		easing : 'lib/easing',
 		scrollify : 'lib/scrollify',
-		action : 'general/action'
+		action : 'general/action.js?6565465465fasdfaasdsafas66'
 	}
 });
 
